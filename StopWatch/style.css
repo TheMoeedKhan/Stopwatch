@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(fb-stopwatch2.png);
+  background-size: cover;
+  width: 100%;
+
+  position: fixed;
+}
+.heading {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  height: 100%;
+  text-align: center;
+  width: 1500px;
+  margin: 20px auto;
+}
+.seconds,
+.tens {
+  font-size: 2em;
+}
+
+.buttons {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+
+}
